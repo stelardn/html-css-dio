@@ -10,6 +10,8 @@ body{
 .post_title {
     font-size: 16;
     font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
 }
 
 .post {
@@ -19,5 +21,11 @@ body{
     border-top: 1px dashed black;
     border-right: 2px solid green;
     border-radius: 4px;
-    margin: 10px;
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
 }
