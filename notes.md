@@ -12,3 +12,6 @@
 * rel (no elemento style): indica o tipo do elemento (ex.: stylesheet)
 * id: serve para identificar um elemento único e só deve ser usado uma vez no html, representado no css com #
 * class: serve para definir classes que serão representadas no arquivo css com .
+
+## Seletores
+```seletores {declarações (propriedade: valor)}```
