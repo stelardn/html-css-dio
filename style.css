@@ -33,3 +33,9 @@ body{
 .post_img {
     margin-bottom: 15px;
 }
+
+.picture {
+    border-radius: 50%;
+    border: 1px;
+    border-color: rgba(44, 43, 43, 0.938);
+}
