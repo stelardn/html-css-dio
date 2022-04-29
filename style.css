@@ -1,10 +1,10 @@
 body{
 
-    background-color: gray;
+    background-color: rgba(255, 246, 246, 0.836);
 }
 
 #title, .subtitle, .post_title {
-    color: blue;
+    color: rgba(37, 36, 36, 0.096);
 }
 
 .post_title {
@@ -15,11 +15,11 @@ body{
 }
 
 .post {
-    background-color: rgb(145, 43, 230);
+    background-color: rgb(169, 148, 185);
     padding: 10px 15px 5px 5px;
-    border: 3px solid blue;
-    border-top: 1px dashed black;
-    border-right: 2px solid green;
+    border: 3px solid rgb(126, 126, 133);
+    border-top: 1px dashed rgb(141, 135, 135);
+    border-right: 2px solid rgb(119, 122, 119);
     border-radius: 4px;
     margin: 0;
     margin-bottom: 15px;
@@ -27,5 +27,9 @@ body{
 
 .post_content {
     margin: 0;
+    margin-bottom: 15px;
+}
+
+.post_img {
     margin-bottom: 15px;
 }
