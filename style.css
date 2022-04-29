@@ -4,7 +4,7 @@ body{
 }
 
 #title, .subtitle, .post_title {
-    color: rgba(37, 36, 36, 0.096);
+    color: rgba(17, 17, 17, 0.938);
 }
 
 .post_title {
@@ -15,7 +15,7 @@ body{
 }
 
 .post {
-    background-color: rgb(169, 148, 185);
+    background-color: rgb(195, 190, 199);
     padding: 10px 15px 5px 5px;
     border: 3px solid rgb(126, 126, 133);
     border-top: 1px dashed rgb(141, 135, 135);
