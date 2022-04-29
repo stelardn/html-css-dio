@@ -53,3 +53,7 @@ a {
     margin-left: 0px;
     font-family: Verdana;
 }
+
+ul {
+    list-style-type: none;
+}
