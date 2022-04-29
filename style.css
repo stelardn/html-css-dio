@@ -2,6 +2,9 @@ body{
 
     background-color: rgba(255, 246, 246, 0.836);
     font-family: Verdana;
+    width: 900px;
+    margin: auto;
+    max-width: 900px;
 }
 
 #title, .subtitle, .post_title {
@@ -30,10 +33,12 @@ body{
 .post_content {
     margin: 0;
     margin-bottom: 15px;
+    text-align: left;
 }
 
 .post_img {
     margin-bottom: 15px;
+    width: 100%;
 }
 
 .picture {
