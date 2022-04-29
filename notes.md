@@ -18,5 +18,5 @@
 ```seletores {declarações (propriedade: valor)}```
 
 ## Estilização de texto
-* Adicionando 2 fontes (font-family) tem-se um backup caso a primeira fonte não funciona
+* Adicionando 2 fontes (font-family) tem-se um backup caso a primeira fonte não funcione
 * Algumas fontes não têm suporte ao itálico
