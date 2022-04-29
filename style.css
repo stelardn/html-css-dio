@@ -50,4 +50,6 @@ a {
 .footer {
     font-size: 13px;
     font: gray;
+    margin-left: 2px;
+    font-family: Verdana;
 }
