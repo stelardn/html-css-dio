@@ -1,6 +1,7 @@
 body{
 
     background-color: rgba(255, 246, 246, 0.836);
+    font-family: Verdana;
 }
 
 #title, .subtitle, .post_title {
@@ -11,7 +12,8 @@ body{
     font-size: 16;
     font-style: italic;
     margin: 0;
-    margin-bottom: 15px;
+    margin-bottom: 18px;
+    text-transform: uppercase;
 }
 
 .post {
@@ -38,4 +40,14 @@ body{
     border-radius: 50%;
     border: 1px;
     border-color: rgba(44, 43, 43, 0.938);
+}
+
+a {
+    text-decoration: underline;
+    color: rgba(44, 43, 43, 0.938);
+}
+
+.footer {
+    font-size: 13px;
+    font: gray;
 }

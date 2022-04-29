@@ -1,6 +1,6 @@
 # Dicas interessantes:
 
-* Site [Tiny PNG](https://www.tinypng.com) pode ser usado para adequar as magens a serem inseridas na página.
+* Site [Tiny PNG](https://www.tinypng.com) pode ser usado para adequar as margens a serem inseridas na página.
 * É uma boa prática manter os espaçamentos de margens na mesma direção (ex.: bottom em post e bottom em img em vez de bottom e top em post)
 
 ## Listas:
